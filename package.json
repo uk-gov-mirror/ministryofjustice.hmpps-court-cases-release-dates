@@ -126,7 +126,7 @@
     "lint-staged": "^17.6.0",
     "nock": "^14.0.17",
     "openapi-typescript": "^7.13.0",
-    "prettier": "^3.9.10",
+    "prettier": "^3.10.0",
     "prettier-plugin-jinja-template": "^2.2.0",
     "sass": "^1.108.2",
     "supertest": "^7.3.2",
